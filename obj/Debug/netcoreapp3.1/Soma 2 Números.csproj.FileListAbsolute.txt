@@ -1,0 +1,13 @@
+C:\Users\POSITIVO\Desktop\PC1\Soma 2 Números\bin\Debug\netcoreapp3.1\Soma 2 Números.exe
+C:\Users\POSITIVO\Desktop\PC1\Soma 2 Números\bin\Debug\netcoreapp3.1\Soma 2 Números.deps.json
+C:\Users\POSITIVO\Desktop\PC1\Soma 2 Números\bin\Debug\netcoreapp3.1\Soma 2 Números.runtimeconfig.json
+C:\Users\POSITIVO\Desktop\PC1\Soma 2 Números\bin\Debug\netcoreapp3.1\Soma 2 Números.runtimeconfig.dev.json
+C:\Users\POSITIVO\Desktop\PC1\Soma 2 Números\bin\Debug\netcoreapp3.1\Soma 2 Números.dll
+C:\Users\POSITIVO\Desktop\PC1\Soma 2 Números\bin\Debug\netcoreapp3.1\Soma 2 Números.pdb
+C:\Users\POSITIVO\Desktop\PC1\Soma 2 Números\obj\Debug\netcoreapp3.1\Soma 2 Números.csprojAssemblyReference.cache
+C:\Users\POSITIVO\Desktop\PC1\Soma 2 Números\obj\Debug\netcoreapp3.1\Soma 2 Números.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Soma 2 Números\obj\Debug\netcoreapp3.1\Soma 2 Números.AssemblyInfo.cs
+C:\Users\POSITIVO\Desktop\PC1\Soma 2 Números\obj\Debug\netcoreapp3.1\Soma 2 Números.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Soma 2 Números\obj\Debug\netcoreapp3.1\Soma 2 Números.dll
+C:\Users\POSITIVO\Desktop\PC1\Soma 2 Números\obj\Debug\netcoreapp3.1\Soma 2 Números.pdb
+C:\Users\POSITIVO\Desktop\PC1\Soma 2 Números\obj\Debug\netcoreapp3.1\Soma 2 Números.genruntimeconfig.cache
